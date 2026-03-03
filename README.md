@@ -1,4 +1,4 @@
-![CI](https://github.com/tojimari999/<REPOSITORY>/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/tojimari999/git@github.com:tojimari999/JS11.git/actions/workflows/web.yml/badge.svg)
 
 # Webpack5
 [Руководство по настройке Webpack](https://webpack.js.org/guides/)
